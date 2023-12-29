@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyFirstAppCompose</string>
+    <string name="Happy_Birthday_Text">Happy Birthday Yasser</string>
+    <string name="signature_text">From Emma</string>
+    <string name="first_screen">First Screen</string>
+    <string name="title_article">Jetpack Compose tutorial</string>
+    <string name="text1_article">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="text2_article">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app\'s UI programmatically because they let you describe how it should look and provide data dependencies, rather than focus on the process of the UI\'s construction, such as initializing an element and then attaching it to a parent. To create a Composable function, you add the @Composable annotation to the function name.</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="admin_task_text1">All tasks completed</string>
+    <string name="admin_task_text2">Nice work!</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="box_text_title1">Text composable</string>
+    <string name="box_text_detail1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="box_text_title2">Image composable</string>
+    <string name="box_text_detail2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="box_text_title3">Row composable</string>
+    <string name="box_text_detail3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="box_text_title4">Column composable</string>
+    <string name="box_text_detail4">A layout composable that places its children in a vertical sequence.</string>
+    <string name="fourth_screen">Fourth Screen</string>
+    <string name="full_name_card">Yasser Javier Ortiz Trujillo</string>
+    <string name="title_card">Android Developer</string>
+    <string name="telephone_number_card">0991592109</string>
+    <string name="socials_media_card">yjoters</string>
+    <string name="email_card">2010guabo@gmail.com</string>
+    <string name="fifth_screen">Fifth Screen</string>
+    <string name="next">NEXT</string>
+</resources>
